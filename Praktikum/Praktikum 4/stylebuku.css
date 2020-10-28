@@ -1,0 +1,70 @@
+body{
+    background: #eee;
+    color: #333;
+    font-family: sans-serif;
+    font-size:15px;
+}
+/*atas item2*/   
+#wrapper{
+    background: #fff;
+    /*width: 1100px;*/
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+/*bagian atas*/ 
+#wrapper header{ 
+    background: #232323;
+    padding: 20px;
+}
+    
+#wrapper header hgroup{
+    float: left;
+    color: #fff;
+}
+    
+#wrapper header nav{
+    float: right;
+    margin-top: 50px;
+ }
+    
+#wrapper header nav ul{
+    padding: 0;
+    margin: 0;
+}
+    
+#wrapper header nav ul li{
+    float: left;  
+    list-style: none;
+}
+    
+#wrapper header nav ul li a{  
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+}
+    
+.clear{
+    clear: both;
+}
+/*batas bawah */   
+footer{ 
+    background: #575353;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+/*batas bawah + warna text*/
+footer a{ 
+    color: #fff;
+    text-decoration: none;
+}
+  /*section index*/  
+section{
+    background-color:#90caf9 ;
+    padding: 20px;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+    
